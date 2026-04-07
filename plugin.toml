@@ -2,5 +2,5 @@
 summary = 'Workflow UI'
 version = '0.1.0'
 description = '企业审批流前端页面、流程设计器与申请侧视图'
-author = 'Claude Code'
+author = 'eginner01'
 tags = ['task', 'notification']

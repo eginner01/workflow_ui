@@ -29,6 +29,7 @@
 - 名称：`workflow_ui`
 - 版本：`0.1.0`
 - 标签：`task`、`notification`
+- 作者：`eginner01`
 
 ## 适用范围
 
